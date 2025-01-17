@@ -2,9 +2,6 @@
 
 Preview: https://challenge-0-simple-nft-rubykobayashi-ruby-kobayashis-projects.vercel.app?_vercel_share=eXZUFZ1YpVBVIJVGW836BnZi0alCZXKi
 
-
-
-
 ![readme-0](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/375b7797-6839-43cd-abe5-fca94d88e300)
 
 📚 This tutorial is meant for developers that already understand the [ 🖍️ basics ](https://www.youtube.com/watch?v=MlJPjJQZtC8).
